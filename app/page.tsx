@@ -10,25 +10,6 @@ export default function Home() {
         </p>
       </div>
 
-      <div className={styles.center}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-        <span>+</span>
-        <Image
-          src="/amplify.svg"
-          alt="Amplify Logo"
-          width={45}
-          height={37}
-          priority
-        />
-      </div>
-
       <div className={styles.grid}>
         <a
           href="https://docs.amplify.aws/gen2/"
@@ -37,9 +18,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Docs <span>-&gt;</span>
+            Sign Up <span>-&gt;</span>
           </h2>
-          <p>Review documentation for Amplify's code-first DX (Gen 2).</p>
+          <p>Create an account to submit tasks</p>
         </a>
 
         <a
