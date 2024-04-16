@@ -6,8 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Welcome to Riddle Distributed Computing;
-          <code className={styles.code}>app/page.tsx</code>
+          Welcome to Riddle Distributed Computing
         </p>
       </div>
 
