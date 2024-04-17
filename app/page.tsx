@@ -18,7 +18,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Sign Up <span>-&gt;</span>
+            Sign Up
           </h2>
           <p>Create an account to submit tasks</p>
         </a>
@@ -30,9 +30,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Quickstart <span>-&gt;</span>
+            Compute
           </h2>
-          <p>Submit your first task to our distributed network</p>
+          <p>Use our distributed network</p>
         </a>
 
         <a
@@ -42,9 +42,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Pricing <span>-&gt;</span>
+            Pricing
           </h2>
-          <p>Explore flat rate and dynamic models</p>
+          <p>Flat rate and dynamic models</p>
         </a>
 
         <a
@@ -54,7 +54,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Docs <span>-&gt;</span>
+            Docs
           </h2>
           <p>
             Build with Riddle APIs
