@@ -32,7 +32,7 @@ export default function Home() {
           <h2>
             Quickstart <span>-&gt;</span>
           </h2>
-          <p>Follow a tutorial to build a fullstack app with Amplify Gen 2.</p>
+          <p>Submit your first task to our distributed network</p>
         </a>
 
         <a
@@ -42,9 +42,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Auth <span>-&gt;</span>
+            Pricing <span>-&gt;</span>
           </h2>
-          <p>Zero-config Auth UI components with social sign-in and MFA.</p>
+          <p>Explore flat rate and dynamic models</p>
         </a>
 
         <a
@@ -54,10 +54,10 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Data <span>-&gt;</span>
+            Docs <span>-&gt;</span>
           </h2>
           <p>
-            Fully-typed real-time API with NoSQL database.
+            Build with Riddle APIs
           </p>
         </a>
       </div>
